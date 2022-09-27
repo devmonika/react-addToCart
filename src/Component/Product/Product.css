@@ -1,0 +1,30 @@
+.product img{
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.product{
+    width: 320px;
+    height: 500px;
+    border: 1px solid salmon;
+    border-radius: 5px;
+}
+.product-content{
+    padding: 15px;
+    line-height: .5;
+}
+.product h2{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+}
+button{
+    display: block;
+    width: 100%;
+    padding: 15px;
+}
